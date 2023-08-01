@@ -4,7 +4,6 @@ import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
-import org.jhipster.blog.BlogApp;
 import org.jhipster.blog.config.AsyncSyncConfiguration;
 import org.jhipster.blog.config.EmbeddedSQL;
 import org.springframework.boot.test.context.SpringBootTest;

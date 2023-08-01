@@ -17,7 +17,6 @@ import org.jhipster.blog.security.AuthoritiesConstants;
 import org.jhipster.blog.service.UserService;
 import org.jhipster.blog.service.dto.AdminUserDTO;
 import org.jhipster.blog.service.dto.PasswordChangeDTO;
-import org.jhipster.blog.service.dto.UserDTO;
 import org.jhipster.blog.web.rest.vm.KeyAndPasswordVM;
 import org.jhipster.blog.web.rest.vm.ManagedUserVM;
 import org.junit.jupiter.api.Test;
